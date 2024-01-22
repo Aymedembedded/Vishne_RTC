@@ -1,0 +1,1 @@
+ili9341_v2_stm373\startup_stm32f373xc.o: startup_stm32f373xc.s
